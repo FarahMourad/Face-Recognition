@@ -7,9 +7,5 @@
 - Run Download Faces and Non-Faces Dataset
 - Put car, cat, dog, flower, fruit and motorbike directly inside the non-face folder 
 - delete any other folders
-## Prepare the Faces and Non-Faces Dataset
-- these blocks resize the nonfaces pictures to be the same as faces 
-- convert the images into a flattened array stores the grayscale not the colors
-## Merging Faces and Nonfaces
-- split each dataset into 70 for training and 30 testing 
-- split each dataset once again into 50 for training and 50 testing 
+## Implementation Details, Comments and Sample Runs
+_ https://docs.google.com/document/d/1wzYNFd9k3ilJ3A72SfZr6-A7vgCNAUqc-jnkIzJUXps/edit?usp=sharing
